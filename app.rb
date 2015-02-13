@@ -5,6 +5,7 @@ require './helpers'
 require './modules/lights'
 require './modules/temperature'
 require './modules/iRiver_player'
+require './modules/spotify'
 
 require 'numbers_in_words'
 require 'numbers_in_words/duck_punch'
@@ -19,7 +20,8 @@ def process_query(command)
     process_temperature(command)
   elsif command.scan(/river/).length > 0
     process_player(command, player: "iriver")
-  end
+  elsif command.scan(/spot/).length > 0
+  process_spotify(command)
 end
 
 get '/command' do

@@ -60,6 +60,8 @@ class AlexaCrawler
         if(lastCommand != command){
           $.get('http://localhost:4567/command?q='+command)
           lastCommand = command;
+        }else if(command == 'alexa sensation'){
+         console.log('right from behind');
         }
       })
     ")
