@@ -47,6 +47,7 @@ GEM
     rack-protection (1.5.3)
       rack
     rake (10.4.2)
+    rb-appscript (0.6.1)
     rubyzip (1.1.6)
     selenium-webdriver (2.44.0)
       childprocess (~> 0.5)
@@ -84,6 +85,7 @@ DEPENDENCIES
   pg
   pry
   rake
+  rb-appscript (~> 0.6.1)
   sinatra
   sinatra-activerecord
   sqlite3

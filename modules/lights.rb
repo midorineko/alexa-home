@@ -21,6 +21,7 @@ def process_lights(command)
   
   # Select lights
   if command.scan(/all/).length > 0
+    p 'hello here i am'
     lights_to_act_on = HUE_CLIENT.lights
   elsif command.scan(/room/).length > 0
     lights_to_act_on = HUE_CLIENT.lights.select{|light| ZACH_ROOM_LIGHTS.include?(light.name.downcase)}
@@ -35,6 +36,8 @@ def process_lights(command)
     options[:on] = true
   elsif command.scan(/off/).length > 0
     options[:on] = false
+    system("open", "spotify.app")
+    p 'I am here'
   end
 
   words = command.split(" ")

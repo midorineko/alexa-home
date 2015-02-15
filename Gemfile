@@ -18,6 +18,7 @@ gem 'rake'
 gem 'watir-webdriver'
 gem 'daemons'
 
+gem 'rb-appscript', '~> 0.6.1'
 group :development do
   gem 'sqlite3'
 end
