@@ -2,447 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b34400c-a6cc-44bc-959d-2f068d74bca1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Chromium Embedded Framework" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/ffmpegsumo.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/libcef.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/aliasCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef.pak" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cellCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/contextMenuCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/copyCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/deleteButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/deleteButton.tiff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/deleteButton@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/deleteButtonPressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/deleteButtonPressed.tiff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/deleteButtonPressed@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/devtools_resources.pak" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/eastResizeCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/eastWestResizeCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/en.lproj/locale.pak" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/helpCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/inputSpeech.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/inputSpeech.tiff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/linearSRGB.icc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/linkCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/missingImage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/missingImage.tiff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/missingImage@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/moveCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/noDropCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/noneCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/northEastResizeCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/northEastSouthWestResizeCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/northResizeCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/northSouthResizeCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/northWestResizeCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/northWestSouthEastResizeCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/nullPlugin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/nullPlugin@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/panIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/progressCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/southEastResizeCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/southResizeCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/southWestResizeCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/textAreaResizeCorner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/textAreaResizeCorner.tiff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/textAreaResizeCorner@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/urlIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/verticalTextCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/waitCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/westResizeCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/zoomInCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/zoomOutCursor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/_CodeSignature/CodeDirectory" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/_CodeSignature/CodeRequirements" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework/_CodeSignature/CodeSignature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Spotify Helper EH.app/Contents/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Spotify Helper EH.app/Contents/MacOS/Spotify Helper EH" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Spotify Helper EH.app/Contents/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Spotify Helper EH.app/Contents/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Frameworks/libplugin_carbon_interpose.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/MacOS/Spotify" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/MacOS/SpotifyWebHelper" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Buttons/gridview-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/DeviceSection/box-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/DeviceSection/box-corners.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/DeviceSection/box-dark-gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/DeviceSection/box-gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/EditMetadataWindow.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.2.3.framework/Growl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.2.3.framework/Headers" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.2.3.framework/Resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.2.3.framework/Versions/A/Growl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.2.3.framework/Versions/A/Headers/Growl.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.2.3.framework/Versions/A/Headers/GrowlApplicationBridge-Carbon.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.2.3.framework/Versions/A/Headers/GrowlApplicationBridge.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.2.3.framework/Versions/A/Headers/GrowlDefines.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.2.3.framework/Versions/A/Resources/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.2.3.framework/Versions/A/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.2.3.framework/Versions/Current" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.3.1.framework/Growl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.3.1.framework/Headers" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.3.1.framework/Resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.3.1.framework/Versions/A/Growl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.3.1.framework/Versions/A/Headers/Growl.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.3.1.framework/Versions/A/Headers/GrowlApplicationBridge.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.3.1.framework/Versions/A/Headers/GrowlDefines.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.3.1.framework/Versions/A/Resources/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.3.1.framework/Versions/A/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Libraries/Growl 1.3.1.framework/Versions/Current" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Now Playing/collection.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Now Playing/collection@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Now Playing/share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Now Playing/share@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/128-local.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/128-playlist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/128-starred.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/128-user.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/18-user.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/23-user-private.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/23-user-private@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/23-user.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/23-user@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/300-advertising.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/49-playlist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/64-playlist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Placeholders/64-user.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/ProximaNova-Bold.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/ProximaNova-Light.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/ProximaNova-Regular.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/ProximaNova-Semibold.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/ProximaNova-Thin.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Relauncher.app/Contents/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Relauncher.app/Contents/MacOS/Relauncher" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Relauncher.app/Contents/PkgInfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Relauncher.app/Contents/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/SPAutocompleteMenuWindow.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Scrollbars/horizontal-light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Scrollbars/horizontal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Scrollbars/horizontal@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Scrollbars/vertical-light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Scrollbars/vertical-light@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Scrollbars/vertical.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Scrollbars/vertical@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/application.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/badge-square.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/badge-square@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/collaborativeplaylist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/collaborativeplaylist@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/collection.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/collection@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/devices.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/devices@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/drop_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/eject.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/generic-device-16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/group.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/group@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/group_control.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/group_control@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/h_divider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/library.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/library@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/music_files.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/music_files@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/new_playlist.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/new_playlist@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/people.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/playqueue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/playqueue@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/song.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/song@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/top_lists.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/top_lists@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/top_shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Sourcelist/whats_new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Spotify.sdef" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Tab Bar/active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Tab Bar/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Toolbar/account-mask.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/Toolbar/account-mask@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_linux/spotify-linux-128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_linux/spotify-linux-16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_linux/spotify-linux-22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_linux/spotify-linux-24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_linux/spotify-linux-256.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_linux/spotify-linux-32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_linux/spotify-linux-48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_linux/spotify-linux-512.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_linux/spotify-linux-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_linux/spotify_icon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_mac/fullscreen-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_mac/fullscreen-pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_mac/fullscreen-regular.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_win32/icon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_win32/lock_locked.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/_win32/lock_unlocked.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/about/bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/about/photo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/about/text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/apps.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/bg_bottom_shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/bg_plaid-list.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/bg_plaid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/bg_top_highlight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/button-intro.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/button-text-11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/buttons-for_white_background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/checkbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/checkmark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/close_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/close_button@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/collection-albums.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/collection-albums@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/collection-artists.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/collection-artists@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/collection-overview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/collection-overview@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/collection-simple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/collection-simple@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/collection-songs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/collection-songs@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/cursor-mac-forbidden.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/de.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/badge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/bg_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/complete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/manually-manage-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/manually-manage-itunes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/manually-manage-screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/progress-bg-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/progress-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/progress-corners-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/progress-corners.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/progress-filled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/progress-syncing-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/progress-syncing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/restore-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/restore-itunes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/restore-screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/setup-screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/usb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/devices/wifi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/el.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/es-419.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/es.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fb_buttons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fb_permissions_header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fi.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/filter-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fonts/ProximaNova-Bold.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fonts/ProximaNova-Light.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fonts/ProximaNova-Regular.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fonts/ProximaNova-Semibold.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fonts/ProximaNova-Thin.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/footer-bg-resize.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/footer-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/footer-mode-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fr-CA.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fr.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fullscreen-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fullscreen-pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/fullscreen-regular.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/gridview-get-more-badge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/gridview-mask-flex.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/gridview-shadow-flex.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/gridview-shadow2-flex.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/head_bar-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/head_bar-buttons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/header-bg-no-title.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/header-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/hu.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/icon.icns" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/icons/localfiles-empty.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/image_shadow-for_dark_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/info_group-bubble-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/info_group-bubble-drop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/info_group-button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/info_group-drop_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/intro/bgDefault.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/intro/bgLogin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/intro/ill-gracenote.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/intro/img-collection.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/intro/img-follow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/intro/img-magnifying-glass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/intro/img-social.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/intro/legalTextBg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/intro/lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/intro/screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/intro/spotify.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/it.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/ja.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/licenses.xhtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/lightbox-buttons@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/lightbox-overlay-highlight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/lightbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/lightbox_buttons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/lightbox_close_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/local_files.icns" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login-installer-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login-np-placeholder.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/appIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/appIcon@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/background-no-titlebar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/bubble-flag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/checkbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/divider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/fb-badge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/fb-login-btn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/fb-white-badge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/fbspbbf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/input.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/play-overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/submit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/login/throbber.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-au_volume.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-au_volume@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-audio-output.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-play_pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-play_pause@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-prev_next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-prev_next@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-progress-bar-slider-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-progress-bar-slider-bg@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-repeat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-repeat@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-shuffle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-shuffle@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-slider-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-slider-bg@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-slider-knob.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/main-control-slider-knob@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/mainlist-annotation-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/mainlist-column-header-sort_indicators.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/mainlist-column-header-sort_indicators@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/mainlist-explicit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/mainlist-row-playing-marker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/mainlist-row-playing-marker@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/mainlist-section-header-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/mainlist-seen_indicator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/mainlist-share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/mainlist-share@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/mainlist-track_state.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/meeter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/meeter@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/message_bar-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/message_bar-bg@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/mr_bomb-dark-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/msgid.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/nl.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/now_playing-art_placeholder-album.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/now_playing-art_placeholder-album@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/np-badge-top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/np-collapse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/np-collapse@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/np-coverart-highlight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/np-expand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/np-expand@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/offline-indicators.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/offline-indicators@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/pending.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/pl.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/popin_window-arrow-side.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/popin_window-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/popin_window-bg-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/popin_window-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/popin_window-bg@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/popularity@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/popularity_indicator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/progress-background-overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/progress-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/progress-borders.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/progress-complete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/progress-indeterminate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/pt-BR.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/radio_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/ru.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/search-glass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/search_dropdown_border.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/section_head-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/selected-highlight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/selected-highlight@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/skin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/special_row-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/special_row-icon@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/star-simple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/star-simple@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/sv.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/switch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/switch@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/switch_small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/tab-bar-filter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/tab-bar-filter@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/telia/telia-nowplaying.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/text_field.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/th.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/throbber-big-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/toolbar-back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/toolbar-back@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/toolbar-forward.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/toolbar-forward@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/toolbar-notifications.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/toolbar-notifications@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/toolbar-search_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/toolbar-search_bg@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/toolbar-search_box-button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/toolbar-search_box-button@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/toolbar-search_glass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/toolbar-search_glass@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/top_list_header_button-big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/tr.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/tracks-not-synced-bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/about_box.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/app_favorite_bar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/banner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/bubble_popup_style.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/confirm_disconnect.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/device_flow.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/device_restore_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/device_section_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/device_setup_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/device_unsupported_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/device_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/external_ad_page.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/functions.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/generic_empty.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/generic_empty_style.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/generic_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/generic_header_style.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/generic_lightbox.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/intro_flow.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/intro_style.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/lightbox.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/question_popup.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/search_empty.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/views/stitch_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/win7-taskbar-badge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/win7-taskbar-ctrl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/window-controls-linux.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/window-controls-win.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/window-flow-footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/zh-Hant.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/Resources/zsm.pob" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Spotify.app/Contents/_CodeSignature/CodeResources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/color.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/iRiver_player.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/lights.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/temperature.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/alexa-home.iml" afterPath="$PROJECT_DIR$/.idea/alexa-home.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.rb" afterPath="$PROJECT_DIR$/app.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/itunes.rb" afterPath="$PROJECT_DIR$/modules/itunes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/spot_search.rb" afterPath="$PROJECT_DIR$/modules/spot_search.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/spotify.rb" afterPath="$PROJECT_DIR$/modules/spotify.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -470,8 +31,8 @@
       <file leaf-file-name="app.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="735">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="630">
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -480,8 +41,8 @@
       <file leaf-file-name="spot_search.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modules/spot_search.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25477707" vertical-offset="0" max-vertical-offset="600">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.4827586" vertical-offset="75" max-vertical-offset="555">
+              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -513,8 +74,8 @@
       <file leaf-file-name="spotify.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/spotify.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="525">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="20" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="510">
+              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -590,17 +151,17 @@
         <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/config.ru" />
         <option value="$PROJECT_DIR$/monitoring_snippet.js" />
-        <option value="$PROJECT_DIR$/modules/spot_search.rb" />
-        <option value="$PROJECT_DIR$/modules/spotify.rb" />
         <option value="$PROJECT_DIR$/modules/itunes.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/modules/spotify.rb" />
         <option value="$PROJECT_DIR$/app.rb" />
+        <option value="$PROJECT_DIR$/modules/spot_search.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1437" />
+    <option name="width" value="890" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -771,8 +332,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1437" height="873" extended-state="7" />
-    <editor active="false" />
+    <frame x="0" y="23" width="890" height="873" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3277849" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -785,7 +346,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17562725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2889151" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1148,6 +709,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="630">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/spotify.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="510">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/startupScript.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.6" vertical-offset="0" max-vertical-offset="180">
@@ -1156,26 +733,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="735">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/spotify.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="525">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="20" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/spot_search.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25477707" vertical-offset="0" max-vertical-offset="600">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.4827586" vertical-offset="75" max-vertical-offset="555">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
           <folding />
         </state>
       </provider>

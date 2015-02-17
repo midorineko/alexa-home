@@ -26,5 +26,4 @@ def process_spotify(command)
     p "here in the last spot"
     spot.back_track
   end
-
 end
