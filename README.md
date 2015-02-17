@@ -49,13 +49,13 @@ This has to be run on the same network your Hue is on, but not necessarily the s
 I'd love to get these resolvers/modules done at some point too:
 
 1) Spotify find a users tracks
-  -write a double or tripple random script for actualy shuffle mode
+  ~write a double or tripple random script for actualy shuffle mode
 
 2) Posting tweets onto twitter
-  -have her read you back the recent tweets, which is a little ways off
+  ~have her read you back the recent tweets, which is a little ways off
 
 3) Speaker switching
-  -switch where music is being played from, and which device is sending the sound.
+  ~switch where music is being played from, and which device is sending the sound.
 
 ## Stopping Alexa Home
 
