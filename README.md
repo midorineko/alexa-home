@@ -1,12 +1,7 @@
 # Alexa Home
 
-Welcome to Alexa Home! The goal of this project is to use your [Amazon Echo](http://amzn.to/1DO0ax3) to control various home automation software. Interested in integrating a new module? Check out some of the code and send in a pull request! Glad to help out.
+Welcome to Alexa Home Midori Style! I lvoe the amazon echo, but the lack of support for applications I love is eating me alive. I am currently adapating Zfeldmans original use of Alexa-Home, to help build applications that make alexa work more seamlessly with my current home setup.
 
-Good demo video at [http://youtu.be/9AmxiGVBekE](http://youtu.be/9AmxiGVBekE)
-
-Here's a blog post too with a bad demo video and some background:
-
-[http://blog.zfeldman.com/2014-12-28-using-amazon-echo-to-control-lights-and-temperature](http://blog.zfeldman.com/2014-12-28-using-amazon-echo-to-control-lights-and-temperature)
 
 ## Setting up
 
