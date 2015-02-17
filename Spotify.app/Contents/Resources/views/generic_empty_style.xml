@@ -1,0 +1,26 @@
+<style>
+	text-style {
+		size: 22;
+		color: #949599;
+		face: proxima_nova;
+		flex: 1;
+		align: middle,center;
+		max-width: 500;
+		text-align: center;
+		link-color: #fff;
+	}
+	subtext-style {
+		text-style;
+		size: 14;
+	}
+	spacer-style {
+		flex: 1;
+		max-height: inf;
+	}
+
+	icon-style {
+		width:186;
+		height:247;
+		align:center;
+	}
+</style>
