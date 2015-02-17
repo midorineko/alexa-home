@@ -12,11 +12,12 @@ def process_spotify(command)
     spot.play
   elsif command.scan(/off/).length > 0
     p "here in the stop pause"
-    spot.pause
-  elsif command.scan(/full/).length > 0
-    if command.scan(/off/).length > 0
+    if command.scan(/complete/).length > 0
       p "here in the stop spot"
-      spot.sopt
+      spot.stop
+    else
+      p "here in the stop pause"
+      spot.pause
     end
   elsif command.scan(/next/).length > 0
     p "here in the next spot"

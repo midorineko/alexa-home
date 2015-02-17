@@ -6,9 +6,6 @@ require 'rspotify'
 require 'appscript'
 require 'osax'
 
-# require './modules/lights'
-# require './modules/temperature'
-# require './modules/iRiver_player'
 require './modules/spotify'
 require './modules/itunes'
 require './modules/spot_search'
@@ -25,10 +22,10 @@ def process_query(command)
     process_temperature(command)
   elsif command.scan(/river/).length > 0
     process_player(command, player: "iriver")
-  elsif command.scan(/spot/).length > 0
+  elsif command.scan(/spotify/).length > 0
     p "I hear you say spot"
   process_spotify(command)
-  elsif command.scan(/tunes/).length > 0
+  elsif command.scan(/itunes/).length > 0
     p "I hear you say tunes"
     process_itunes(command)
   elsif command.scan(/inspect/).length > 0
