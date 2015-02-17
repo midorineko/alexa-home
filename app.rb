@@ -1,6 +1,7 @@
 require 'sinatra'
 
 require './helpers'
+require 'rspotify'
 
 require 'appscript'
 require 'osax'
@@ -13,7 +14,6 @@ require './modules/itunes'
 
 require 'numbers_in_words'
 require 'numbers_in_words/duck_punch'
-
 
 def process_query(command)
   # HUE LIGHTS #

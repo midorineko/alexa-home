@@ -1,14 +1,22 @@
 def process_itunes(command)
   words = command.split(" ")
+  itu = Appscript.app("iTunes.app")
   p '=============================================================='
   p words
   p '=============================================================='
 
   if command.scan(/on/).length > 0
     p "here in the tunes"
-    osax = OSAX.osax
-    itu = Appscript.app("iTunes.app")
     itu.play
+  elsif command.scan(/off/).length > 0
+    p "here in the stop tunes"
+    itu.pause
+  elsif command.scan(/next/).length > 0
+    p "here in the next tunes"
+    itu.next_track
+  elsif command.scan(/back/).length > 0
+    p "here in the back tunes"
+    itu.back_track
   end
 
 end
