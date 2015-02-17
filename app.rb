@@ -11,6 +11,7 @@ require 'osax'
 # require './modules/iRiver_player'
 require './modules/spotify'
 require './modules/itunes'
+require './modules/spot_search'
 
 require 'numbers_in_words'
 require 'numbers_in_words/duck_punch'
@@ -30,6 +31,9 @@ def process_query(command)
   elsif command.scan(/tunes/).length > 0
     p "I hear you say tunes"
     process_itunes(command)
+  elsif command.scan(/inspect/).length > 0
+    p "I hear you say inspec"
+    process_inspect(command)
   end
 end
 
