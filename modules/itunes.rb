@@ -9,8 +9,13 @@ def process_itunes(command)
     p "here in the tunes"
     itu.play
   elsif command.scan(/off/).length > 0
-    p "here in the stop tunes"
-    itu.pause
+    if command.scan(/complete/).length > 0
+      p "here in the stop spot"
+      itu.stop
+    else
+      p "here in the stop pause"
+      itu.pause
+    end
   elsif command.scan(/next/).length > 0
     p "here in the next tunes"
     itu.next_track
