@@ -22,7 +22,7 @@ def process_inspect(command)
       uri = rand_track[/spotify\:track.*/]
       uri = uri[0..-3]
     elsif command.scan(/style/).length > 0
-      RSpotify.authenticate("edc6b110ccfb40f68390945a1ed88b73", "c355cfe898f8471e84966da16772be1e")
+      RSpotify.authenticate("<your_client_id>", "<your_client_secret>")
       playlists = RSpotify::Playlist.search(search_track)
       playlist = playlists.sample
       rand_track = playlist.tracks.sample
