@@ -3,9 +3,6 @@ require 'rspotify'
 def process_spotify(command)
   words = command.split(" ")
   spot = Appscript.app("spotify.app")
-  p '=============================================================='
-  p words
-  p '=============================================================='
 
   if command.scan(/on/).length > 0
     p "here in the spot"
