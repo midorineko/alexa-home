@@ -16,14 +16,11 @@ require 'numbers_in_words/duck_punch'
 def process_query(command)
   # HUE LIGHTS #
   if command.scan(/spotify/).length > 0
-    p "I hear you say spot"
-  process_spotify(command)
+    p "I hear you say spotify"
+    process_spotify(command)
   elsif command.scan(/itunes/).length > 0
-    p "I hear you say tunes"
+    p "I hear you say itunes"
     process_itunes(command)
-  elsif command.scan(/inspect|spec's|spectrum/).length > 0
-    p "I hear you say inspec"
-    process_inspect(command)
   end
 end
 
