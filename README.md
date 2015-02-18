@@ -35,6 +35,7 @@ This has to be run on the same network your Hue is on, but not necessarily the s
 3) If you plan on using a Hue setup, press the button on top of your Hue unit
 
 4) Type `chmod +x startupScript.sh && ./startupScript.sh`
+chmod +x startupScript.sh && ./startupScript.sh
 
 5) This will start Alexa Home in the background. To stop Alexa Home, see "Stopping Alexa Home"
 
