@@ -16,16 +16,15 @@ def process_spotify(command)
 
   track_name.pop
   search_track = track_name.join(" ")
-  if command.scan(/on/).length > 0
-    # spot.play
-    next_song("current_track", "possible_tracks", "play")
+  if command.scan(/run/).length > 0
+    play_pause()
   elsif command.scan(/off/).length > 0
-    if command.scan(/complete/).length > 0
-      spot.stop
-    else
-      spot.pause
-    end
-    next_song("current_track", "possible_tracks", "stop")
+      if command.scan(/complete/).length > 0
+        spot.stop
+      else
+        spot.pause
+      end
+    stop()
   end
 
   if command.scan(/track/).length > 0

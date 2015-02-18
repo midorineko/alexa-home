@@ -15,7 +15,7 @@ require 'numbers_in_words/duck_punch'
 
 def process_query(command)
   # HUE LIGHTS #
-  if command.scan(/inspect/).length > 0
+  if command.scan(/spotify/).length > 0
     p "I hear you say spotify"
     process_spotify(command)
   elsif command.scan(/itunes/).length > 0
