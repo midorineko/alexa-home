@@ -6,6 +6,7 @@ def play_pause()
   if @@start_time
     elapsed_time_seconds = @@stop_time - @@start_time
     sleep @@song_duration_seconds - elapsed_time_seconds.round(2)
+    #calculating the amount of time the song played for before pausing
     next_song(@@track, @@tracks, @@i)
   end
 end
@@ -15,7 +16,7 @@ def stop()
   @@stop = true
 end
 
-def next_song(current_track, possible_tracks, i)
+def next_song(current_track, possible_tracks, i)#plays the current song and gets the next
     @@track = current_track
     @@tracks = possible_tracks
     spot = Appscript.app("spotify.app")

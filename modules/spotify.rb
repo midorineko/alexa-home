@@ -21,6 +21,7 @@ def process_spotify(command)
   elsif command.scan(/off/).length > 0
       if command.scan(/complete/).length > 0
         spot.stop
+        @@start_time = nil #stops spotify from playing another song afterwards
       else
         spot.pause
       end
