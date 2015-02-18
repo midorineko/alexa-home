@@ -8,17 +8,24 @@ def process_spotify(command)
   p '=============================================================='
   p words
   p '=============================================================='
-  track_name = words.drop(3)
+  if command.scan(/random/).length > 0
+    track_name = words.drop(4)
+  else
+    track_name = words.drop(3)
+  end
+
   track_name.pop
   search_track = track_name.join(" ")
-  if command.scan(/on/).length > 0
-    spot.play
+  if command.scan(/run/).length > 0
+    play_pause()
   elsif command.scan(/off/).length > 0
-    if command.scan(/complete/).length > 0
-      spot.stop
-    else
-      spot.pause
-    end
+      if command.scan(/complete/).length > 0
+        spot.stop
+        @@start_time = nil #stops spotify from playing another song afterwards
+      else
+        spot.pause
+      end
+    stop()
   end
 
   if command.scan(/track/).length > 0
