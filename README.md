@@ -1,12 +1,7 @@
 # Alexa Home
 
-Welcome to Alexa Home! The goal of this project is to use your [Amazon Echo](http://amzn.to/1DO0ax3) to control various home automation software. Interested in integrating a new module? Check out some of the code and send in a pull request! Glad to help out.
+Welcome to Alexa Home Midori Style! I lvoe the amazon echo, but the lack of support for applications I love is eating me alive. I am currently adapating Zfeldmans original use of Alexa-Home, to help build applications that make alexa work more seamlessly with my current home setup.
 
-Good demo video at [http://youtu.be/9AmxiGVBekE](http://youtu.be/9AmxiGVBekE)
-
-Here's a blog post too with a bad demo video and some background:
-
-[http://blog.zfeldman.com/2014-12-28-using-amazon-echo-to-control-lights-and-temperature](http://blog.zfeldman.com/2014-12-28-using-amazon-echo-to-control-lights-and-temperature)
 
 ## Setting up
 
@@ -43,32 +38,24 @@ This has to be run on the same network your Hue is on, but not necessarily the s
 
 5) This will start Alexa Home in the background. To stop Alexa Home, see "Stopping Alexa Home"
 
-## Running automatically on a Rasperry Pi at boot
-
-1) Edit the `autostart`file:
-`sudo vim /etc/xdg/lxsession/LXDE-pi/autostart`
-
-2) Add the following line:
-`@bin/bash /homepi/dev/alexa-home/startupScript.sh`
-at the bottom
-
-3) Try it out by typing `startx`, or for real by typing `sudo reboot`
-
 ## Existing Modules
 
-1) Phillips Hue
+1) Itunes
 
-2) Nest Thermostat
+2) Spotify
 
 ## Module Roadmap
 
 I'd love to get these resolvers/modules done at some point too:
 
-1) August Smart Lock
+1) Spotify find a users tracks
+  ~write a double or tripple random script for actualy shuffle mode
 
-2) IR Transmitter to turn on and off the television
+2) Posting tweets onto twitter
+  ~have her read you back the recent tweets, which is a little ways off
 
-3) Uber to call a cab...with your voice!
+3) Speaker switching
+  ~switch where music is being played from, and which device is sending the sound.
 
 ## Stopping Alexa Home
 
@@ -79,6 +66,7 @@ I'd love to get these resolvers/modules done at some point too:
 ## Contributors
 
 [@zachfeldman](https://twitter.com/zachfeldman)
+[@midorineko](residentsleeper.blogspot.com)
 
 ## Contributing
 
