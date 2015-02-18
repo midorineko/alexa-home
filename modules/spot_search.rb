@@ -1,7 +1,17 @@
 require 'rspotify'
 
+@track = "track"
+@tracks = "tracks"
+
 def next_song(current_track, possible_tracks, i)
-    #I need to stop this if any command comes in
+  if i == "stop"
+    return
+  elsif i == "play"
+    next_song(@track, @tracks, 'random')
+  end
+
+    @track = current_track
+    @tracks = possible_tracks
     spot = Appscript.app("spotify.app")
     uri = current_track.instance_variable_get('@uri')
     spot.open_location uri
