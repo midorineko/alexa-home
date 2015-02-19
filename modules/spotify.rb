@@ -8,28 +8,34 @@ def process_spotify(command)
   p '=============================================================='
   p words
   p '=============================================================='
+
   if command.scan(/random/).length > 0
     track_name = words.drop(4)
   else
     track_name = words.drop(3)
   end
 
-  track_name.pop
+  # track_name = ["born", "sinner", "stop"]
+
+  if track_name.last == 'stop'
+   track_name.pop
+  end
+
   search_track = track_name.join(" ")
 
   if command.scan(/run/).length > 0
     play_pause()
   elsif command.scan(/off/).length > 0
-      if command.scan(/complete/).length > 0
-        spot.stop
-      else
-        spot.pause
-      end
-    stop()
+      spot.pause
+      stop()
+    return
   end
 
   pre_track = Playback.new
-  new_query()
+  if $FIRST_TRACK
+    $FIRST_TRACK.finished()
+  end
+  $FIRST_TRACK = pre_track
   if command.scan(/track/).length > 0
     tracks = RSpotify::Track.search(search_track)
     first_track = tracks.first
